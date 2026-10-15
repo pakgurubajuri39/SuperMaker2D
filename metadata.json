@@ -1,0 +1,6 @@
+{
+  "name": "Super Maker 2D - Level & World Creator",
+  "description": "A retro-arcade 2D platformer level and world map maker inspired by Super Mario Maker 2 with AABB physics, custom stages, and overworld navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
